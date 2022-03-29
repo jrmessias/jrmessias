@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Júnior Messias](https://img.shields.io/badge/jr-messias-brightgreen)
+
 <!--
 **jrmessias/jrmessias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
