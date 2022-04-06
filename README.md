@@ -1,27 +1,26 @@
-# Hi there 👋
+#### Hi there 👋
 
 ![Júnior Messias](https://img.shields.io/badge/jr-messias-brightgreen)
 
-##### I'am a developer working at iopoint
+### I'am a developer working at iopoint
 
-##### NOW
+### NOW
 - 🌙 Developping a Noctem Admin Dashboard Template with Tailwind CSS and Jigsaw (soon at github)
-- 
 
-##### BIO
+### BIO
 - 🏢 I'm currently working at **iopoint**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.dart`
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **mobile**, **technology**
 - ⚡️ Fun fact: I'm a big fan of Avengers
 
-##### Contributions
+#### Contributions
 <div>
 <a href="https://github.com/jrmessias">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmessias&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrmessias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##### I have worked, know or use
+#### I have worked, know or use
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
@@ -52,7 +51,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
+<img src="https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -74,7 +73,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/avell-333333?style=for-the-badge&logo=avell&logoColor=white">
   
-##### Newsletters & Blog
+#### Newsletters & Blog
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 <img src="https://img.shields.io/badge/Laravel_News-ff2d20?style=for-the-badge&logoColor=white">
