@@ -4,11 +4,14 @@
 
 ### I'am a developer working at iopoint solving bugs, working with front-end, back-end and mobile.
 
+Do you want know more about me? Check my links at <a href="https://www.jrmessias.com.br" target="_blank">jrmessias.com.br</a>
+
 ### BIO
 - 🏢 I'm currently working at **iopoint**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.dart`
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **mobile**, **technology**
+- 💬 Ping me about **laravel**, **development**, **mobile**, **technology**, **design**, **branding**,
 - ⚡️ Fun fact: I'm a big fan of Avengers
+- 📖 Studying UI/UX
 
 #### Contributions
 <div>
