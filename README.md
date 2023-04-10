@@ -22,7 +22,8 @@ Do you want know more about me? Check my links at <a href="https://www.jrmessias
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-252525?style=flat&logo=bootstrap)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-252525?style=flat&logo=tailwindcss)&nbsp; 
-![Laravel](https://img.shields.io/badge/-Laravel-252525?style=flat&logo=laravel)&nbsp;<br />
+![Laravel](https://img.shields.io/badge/-Laravel-252525?style=flat&logo=laravel)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-252525?style=flat&logo=flutter)&nbsp;<br />
 
 ![Git](https://img.shields.io/badge/-Git-252525?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-252525?style=flat&logo=github)&nbsp;
