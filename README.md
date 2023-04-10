@@ -13,6 +13,27 @@ Do you want know more about me? Check my links at <a href="https://www.jrmessias
 - ⚡️ Fun fact: I'm a big fan of Avengers
 - 📖 Studying UI/UX
 
+#### I have worked, know or use
+![JavaScript](https://img.shields.io/badge/-JavaScript-252525?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-252525?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-252525?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-252525?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-252525?style=flat&logo=php)&nbsp;<br />
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-252525?style=flat&logo=bootstrap)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-252525?style=flat&logo=tailwindcss)&nbsp; 
+![Laravel](https://img.shields.io/badge/-Laravel-252525?style=flat&logo=laravel)&nbsp;<br />
+
+![Git](https://img.shields.io/badge/-Git-252525?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-252525?style=flat&logo=github)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-252525?style=flat&logo=bitbucket)&nbsp;<br />
+
+![MySQL](https://img.shields.io/badge/-MySQL-252525?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-252525?style=flat&logo=sqlite)&nbsp;
+
+![Dell](https://img.shields.io/badge/-Dell-252525?style=flat&logo=dell)&nbsp;
+![Avell](https://img.shields.io/badge/-Avell-252525?style=flat&logo=avell)&nbsp;
+
 #### Contributions
 <div>
 <a href="https://github.com/jrmessias">
