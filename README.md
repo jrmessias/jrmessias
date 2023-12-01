@@ -50,4 +50,7 @@ Do you want know more about me? Check my links at <a href="https://www.jrmessias
 <a href = "mailto:jrmessias@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
+<br>
+<br>
+<a href="https://app.daily.dev/jrmessias"><img src="https://api.daily.dev/devcards/7bce628b84ad4ff59ca2c70647992844.png?r=pif" width="400" alt="Júnior Messias's Dev Card"/></a>
 </div>
