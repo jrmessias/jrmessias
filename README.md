@@ -52,5 +52,5 @@ Do you want know more about me? Check my links at <a href="https://www.jrmessias
 </a> 
 <br>
 <br>
-<a href="https://app.daily.dev/jrmessias"><img src="https://api.daily.dev/devcards/7bce628b84ad4ff59ca2c70647992844.png?r=pif" width="400" alt="Júnior Messias's Dev Card"/></a>
+<a href="https://app.daily.dev/jrmessias"><img src="https://api.daily.dev/devcards/v2/W_nFAmiYdJ.png?type=default&r=i4c" width="356" alt="Júnior Messias's Dev Card"/></a>
 </div>
